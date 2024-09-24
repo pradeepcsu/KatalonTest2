@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_11</name>
+   <tag>web</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>403dfc57-9d69-416e-bee1-5aefdc3dd595</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>08dc76b4-c239-45fe-9ccf-271c2ed0f977</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4fae1349-f0e4-456c-8721-c880f31300a9</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>08dc76b4-c239-45fe-9ccf-271c2ed0f977</id>
+      <masked>false</masked>
+      <name>standarduser1</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>4fae1349-f0e4-456c-8721-c880f31300a9</id>
+      <masked>false</masked>
+      <name>password_standard1</name>
+   </variable>
+</TestCaseEntity>

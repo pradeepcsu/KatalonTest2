@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_17_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>498e416b-d5c4-4f15-8075-020af0b7f09f</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>4f311804-4979-4072-8ba6-600046a18b79</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5ec892dd-9bd4-4d82-b996-57a1e8d56210</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4f311804-4979-4072-8ba6-600046a18b79</id>
+      <masked>false</masked>
+      <name>user16</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5ec892dd-9bd4-4d82-b996-57a1e8d56210</id>
+      <masked>false</masked>
+      <name>pass16</name>
+   </variable>
+</TestCaseEntity>

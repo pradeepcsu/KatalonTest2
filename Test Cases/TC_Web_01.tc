@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_01</name>
+   <tag>web</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9f4e8c7-99e9-43be-9cf6-401b862f573e</testCaseGuid>
+</TestCaseEntity>

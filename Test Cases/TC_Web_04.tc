@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_04</name>
+   <tag>web</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9e1a5683-8581-48c9-8e98-0b917b220966</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>90cfc167-e44b-429f-9394-3b0c0a02e254</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5893516c-6043-4d4e-b1af-e63682cf0292</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'standard_user'</defaultValue>
+      <description></description>
+      <id>90cfc167-e44b-429f-9394-3b0c0a02e254</id>
+      <masked>false</masked>
+      <name>sauceuser1</name>
+   </variable>
+   <variable>
+      <defaultValue>'secret_sauce'</defaultValue>
+      <description></description>
+      <id>5893516c-6043-4d4e-b1af-e63682cf0292</id>
+      <masked>false</masked>
+      <name>saucepass</name>
+   </variable>
+</TestCaseEntity>

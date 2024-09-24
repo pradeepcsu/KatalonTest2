@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_12_Google</name>
+   <tag>web</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>aef5d929-97c0-48b2-9c6e-548343397689</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>7317482d-5fdd-4ee6-9279-94baa8dc9214</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'katalon'</defaultValue>
+      <description></description>
+      <id>7317482d-5fdd-4ee6-9279-94baa8dc9214</id>
+      <masked>false</masked>
+      <name>google_input_text</name>
+   </variable>
+</TestCaseEntity>

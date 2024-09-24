@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_15_data</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b3392541-9d46-4ac8-83f9-e6fd1e79b7ab</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>87ba1818-0c22-46bc-895d-8777b87c1130</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87ba1818-0c22-46bc-895d-8777b87c1130</id>
+      <masked>false</masked>
+      <name>searchstring_data</name>
+   </variable>
+</TestCaseEntity>

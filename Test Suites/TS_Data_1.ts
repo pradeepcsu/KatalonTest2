@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Data_1</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>c23a7994-23e9-4900-87fc-08d763481b5d</testSuiteGuid>
+   <testCaseLink>
+      <guid>e45468b3-65db-44cf-8347-2873457d96ad</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'abcd'</defaultValue>
+         <description></description>
+         <id>87ba1818-0c22-46bc-895d-8777b87c1130</id>
+         <masked>false</masked>
+         <name>searchstring_data</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/TC_Web_15_data</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>f8a623f4-8a42-4928-b69e-78753fb28183</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TestData1</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>f8a623f4-8a42-4928-b69e-78753fb28183</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>search</value>
+         <variableId>87ba1818-0c22-46bc-895d-8777b87c1130</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

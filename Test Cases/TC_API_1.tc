@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_API_1</name>
+   <tag>API</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>3c1f62fd-a3f9-4279-9e75-0367040ab340</testCaseGuid>
+</TestCaseEntity>

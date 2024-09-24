@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>9e651a6d-69af-4a6d-a8e6-3f0654955ea2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Primary Navigation&quot;i >> internal:role=link[name=&quot;Testing&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>825b787e-e8bc-49f3-bdb6-5a39cf348ef9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M5.293 9.707l6 6c0.391 0.391 1.024 0.391 1.414 0l6-6c0.391-0.391 0.391-1.024 0-1.414s-1.024-0.391-1.414 0l-5.293 5.293-5.293-5.293c-0.391-0.391-1.024-0.391-1.414 0s-0.391 1.024 0 1.414z</value>
+      <webElementGuid>3ed65041-f81e-40bb-b5cc-7f87825b7c21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-trid</name>
+      <type>Main</type>
+      <value>135</value>
+      <webElementGuid>7307b7ff-2a80-4819-856a-85aa7be1e1de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu-item-3173&quot;)/a[1]/span[@class=&quot;nav-drop-title-wrap&quot;]/span[@class=&quot;dropdown-nav-toggle&quot;]/span[@class=&quot;kadence-svg-iconset svg-baseline&quot;]/svg[@class=&quot;kadence-svg-icon kadence-arrow-down-svg&quot;]/path[1]</value>
+      <webElementGuid>fa3a42cb-e272-44fa-8b0e-26b191965682</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

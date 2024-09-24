@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_KW1</name>
+   <tag>KW</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8346d5b4-4f80-4f2e-bec8-da38c938b40e</testCaseGuid>
+</TestCaseEntity>

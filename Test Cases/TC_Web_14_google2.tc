@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Web_14_google2</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d1446535-edce-4d3a-8904-288b02e763f9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b8e3861f-a5c3-4fef-9b19-c04505b40fb3</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'1234'</defaultValue>
+      <description></description>
+      <id>b8e3861f-a5c3-4fef-9b19-c04505b40fb3</id>
+      <masked>false</masked>
+      <name>google_text_2</name>
+   </variable>
+</TestCaseEntity>
