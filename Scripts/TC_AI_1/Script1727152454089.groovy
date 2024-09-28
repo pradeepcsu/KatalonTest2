@@ -17,15 +17,12 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('www.google.com')
+/* Write a Katalon Studio test case to perform the following steps.
+* 1. Open Browser to the URL stored in G_SiteURL
+* 2. Close the browser
+*/
+// Open Browser to the URL stored in G_SiteURL
+WebUI.openBrowser(GlobalVariable.G_SiteURL)
 
-WebUI.navigateToUrl('https://www.saucedemo.com/')
-
-WebUI.setText(findTestObject('Object Repository/Sauce/Page_Swag Labs_locked/input_Swag Labs_user-name'), 'locked_out_user')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/Sauce/Page_Swag Labs_locked/input_Swag Labs_password'), 'qcu24s4901FyWDTwXGr6XA==')
-
-WebUI.click(findTestObject('Object Repository/Sauce/Page_Swag Labs_locked/input_Swag Labs_login-button'))
-
-WebUI.click(findTestObject('Sauce/Page_Swag Labs_locked/path'))
-
+// Close the browser
+WebUI.closeBrowser()

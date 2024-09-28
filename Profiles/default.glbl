@@ -14,4 +14,9 @@
       <initValue>''</initValue>
       <name>PASSWORD</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://saucedemo.com'</initValue>
+      <name>G_SiteURL</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

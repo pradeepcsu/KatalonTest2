@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_AI_2</name>
+   <tag>AI</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71db0ed1-dbbc-4780-a2be-cbdc4bcb18ff</testCaseGuid>
+</TestCaseEntity>
