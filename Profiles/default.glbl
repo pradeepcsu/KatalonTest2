@@ -5,7 +5,7 @@
    <tag></tag>
    <defaultProfile>true</defaultProfile>
    <GlobalVariableEntity>
-      <description></description>
+      <description>username</description>
       <initValue>''</initValue>
       <name>USERID</name>
    </GlobalVariableEntity>
