@@ -10,7 +10,7 @@
       <name>USERID</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
-      <description></description>
+      <description>password</description>
       <initValue>''</initValue>
       <name>PASSWORD</name>
    </GlobalVariableEntity>
